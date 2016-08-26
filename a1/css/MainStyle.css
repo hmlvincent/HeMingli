@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body {
+	background-color: #F4EDED;
+	text-align: center;
+}
+.Cossiepay {
+	font-weight: bold;
+	color: #FFF;
+	border: 1;
+	text-align: center;
+}
+.Cossiepay table tr .Cossiepay {
+	text-align: center;
+}
+.imaga {
+	float: right;
+}
+a:link {
+	font-size:16px;
+	text-decoration:none;
+	color:#FFF;
+}
+a:visited {
+	font-size:16px;
+	text-decoration:none;
+	color:#F90;
+}
+a:hover {
+	color:#FF0;
+	text-decoration:none;
+}
+a:active {
+	font-size:16px;
+	color:#6F6;
+	text-decoration:none;
+}
+a.c:link {
+	color:#33F;
+	text-decoration:none;
+}
+.margin {
+	margin-left:10%;
+	margin-right:10%;
+}
+.title {
+	text-align: center;
+}
+.image2 {
+	padding-left: 20%;
+	padding-right: 20%;
+}

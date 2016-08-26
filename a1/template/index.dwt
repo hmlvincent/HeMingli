@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Cossieplay</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>CossiePlay</title>
+<link href="../css/MainStyle.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body span class="margin">
+<h1 class="body">CossiePlay – Client Content & Information
+</h1>
+<table width="100%" class="Cossiepay" height="15">
+   <tr>
+      <td width="20%" bgcolor="#0066CC"><a href="../index.html">Home</a></td>
+      <td width="20%" bgcolor="#0066CC"><a href="../AboutCossieplay.html">About CossiePlay</a></td>
+      <td width="20%" bgcolor="#0066CC"><a href="../Announcements.html">Announcements</a></td>
+      <td width="20%" bgcolor="#0066CC"><a href="../PartyGuidelines.html">Party Guidelines</a></td>
+      <td width="20%" bgcolor="#0066CC"><a href="../Sign-up.html">Sign-up</a></td>
+  </tr>
+</table>
+<h2 class="title">What is CosPlay?<img src="../images/book-fair-678264_1280.jpg" width="436" height="211" class="imaga"/></h2>
+<p>Cosplay, a portmanteau of the words costume play, is a performance art in which participants called cosplayers wear costumes and fashion accessories to represent a specific character. Cosplayers often interact to create a subculture and a broader use of the term "cosplay" applies to any costumed role-playing in venues apart from the stage. Any entity that lends itself to dramatic interpretation may be taken up as a subject and it is not unusual to see genders switched. Favorite sources include manga and anime, comic books and cartoons, video games, and live-action films and television series.
+  
+The rapid growth in the number of people cosplaying as a hobby since 1990 has made the phenomenon a significant aspect of popular culture in Japan and some other parts of Asia and in the Western world. Cosplay events are common features of fan conventions and there are also dedicated conventions and local and international competitions, as well as social networks, websites and other forms of media centered on cosplay activities. </p>
+<p>Reproduced from https://en.wikipedia.org/wiki/Cosplay</p>
+<hr/>
+<table width="100%" border="1">
+  <tr>
+    <td width="50%"><p>Contact:</p>
+    <p>our Phone is 07 4771 1234<br/>
+       fax: 07-4771 1235<br/>
+       address: 4 Stanton Avenue, Hulkstwon<br/>
+       cossieplay@gmail.com.</p></td>
+    <td width="50%">Links:
+<p><a href="https://en.wikipedia.org/wiki/Cosplay"><font color="c"><b>Wikipedia entry for cosplay</b></font></a>
+<br />
+<a href="http://www.cosplay.com"><font color="c"><b>World largest cosplay community</b></font></a>
+<br/>
+<a href="cosplaytutorial.com/index.php"><font color="c"><b>Resource for costumers</b></font></a>
+</p></td>
+  </tr>
+</table>
+<p>
+</body>
+</html>
